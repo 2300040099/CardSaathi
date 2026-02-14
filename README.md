@@ -17,15 +17,22 @@ CardSaathi analyzes your transaction category, spending behavior, and card rewar
 - **Indian Market Focus**: Support for UPI, Indian issuers (HDFC, ICICI, SBI, Axis, Kotak), and INR calculations
 - **Privacy-First**: Your card data is encrypted and never shared with third parties
 
+---
+
 ## 🚀 Quick Start
 
+> ⚠️ **NOTE:** The following setup steps describe the *planned implementation workflow*.  
+> This repository currently contains **system requirements, design architecture, and specifications**.  
+> Full backend implementation is under development.
+
+---
 ### Prerequisites
 
 - Node.js 18+ and npm
 - PostgreSQL 14+
 - Redis 6+
 
-### Installation
+### Installation(Future Implementation)
 
 ```bash
 # Clone the repository
@@ -49,7 +56,9 @@ npm run seed
 npm run dev
 ```
 
-The API will be available at `http://localhost:3000`
+---
+
+## 📖 Example API Usage (Planned)
 
 ## 📖 Usage
 
