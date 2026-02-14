@@ -227,34 +227,5 @@ You can also add custom reward policies for any card.
 - [ ] Support for international cards and multi-currency transactions
 - [ ] Shared family card portfolios
 
-## 📝 Documentation
-
-- [Requirements Document](.kiro/specs/card-saathi/requirements.md)
-- [Design Document](.kiro/specs/card-saathi/design.md)
-- [Implementation Tasks](.kiro/specs/card-saathi/tasks.md)
-- [API Documentation](docs/api.md) _(coming soon)_
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with the requirements-first workflow using EARS patterns and INCOSE quality rules
-- Property-based testing inspired by QuickCheck and Hypothesis
-- Designed specifically for the Indian credit card market
-
-## 📧 Contact
-
-For questions, suggestions, or support:
-- Email: support@cardsaathi.com
-- Twitter: [@CardSaathi](https://twitter.com/cardsaathi)
-- GitHub Issues: [Report a bug](https://github.com/yourusername/card-saathi/issues)
-
----
 
 **Made with ❤️ for Indian consumers who want to maximize their credit card rewards**
